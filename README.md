@@ -1,1 +1,1 @@
-BMI Calculator is a minimalistic user-interactive web-app tool created using React.
+BMI Calculator is a minimalistic user-interactive web-app tool created using ReactJS.
